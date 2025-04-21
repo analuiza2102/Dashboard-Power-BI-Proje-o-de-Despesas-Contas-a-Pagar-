@@ -21,7 +21,7 @@ O objetivo principal é oferecer uma visão clara da **distribuição das despes
 
 ## 🖼️ Prévia
 
-![Dashboard Projeção de Despesas](https://i.postimg.cc/n9cCG5cz/Proje-o-Despesas-Contas-A-Pagar-Empresa.png)
+![Dashboard Projeção de Despesas](https://postimg.cc/n9cCG5cz)
 
 ---
 
