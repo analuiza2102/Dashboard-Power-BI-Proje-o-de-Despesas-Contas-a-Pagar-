@@ -21,9 +21,8 @@ O objetivo principal é oferecer uma visão clara da **distribuição das despes
 
 ## 🖼️ Prévia
 
-<p align="center">
-  <img src="https://i.postimg.cc/n9cCG5cz/Proje-o-Despesas-Contas-A-Pagar-Empresa.png" width="800px" alt="Dashboard Power BI Contas a Pagar">
-</p>
+![Dashboard Power BI Contas a Pagar](./Projeção%20Despesas%20-%20Contas%20A%20Pagar%20-%20Empresa.png)
+
 ---
 
 ## 🛠️ Tecnologias e Recursos
